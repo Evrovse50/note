@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Квест</title>    
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+  </head>
+  <body>
+    <div class="fr">
+<center><p>Владимир, сожалеем, но Вы нажали не ту кнопку. </p> </center><center><p>Повторите попытку.</p></center>
+<a href="1.html"<button type="submit" class="bt"> Кнопка для хорошего мальчика </button></a>
+    </div>
+	
+	
+    <footer>
+    </footer>
+  </body>
+</html>
