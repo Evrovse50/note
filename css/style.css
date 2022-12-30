@@ -5,7 +5,7 @@
       padding: 20px 34px;
       text-align: center;
       text-decoration: none;
-	  font-family: arial;
+      font-family: arial;
       display: inline-block;
       font-size: 20px;
       margin: 10px 50px;
@@ -17,8 +17,5 @@
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-
-.zap{
-width: 500px;
+  width: 500px;
 }
